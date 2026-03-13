@@ -1,6 +1,4 @@
 ![CFSS SOC Lab Banner](./cfss_soc_lab_banner.svg)
-
-
 # 🛡️ CFSS SOC Analyst Lab
 
 A hands-on Security Operations Center (SOC) lab built during my internship at CFSS.  
